@@ -37,3 +37,5 @@ sudo apt -y install   r-cran-vr
 sudo apt -y install   r-cran-rodbc
 sudo apt -y install   r-cran-tidyverse
 sudo apt -y install littler
+
+sudo apt -y install r-cran-neuralnet
